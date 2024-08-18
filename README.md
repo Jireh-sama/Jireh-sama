@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Jireh-sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jireh-sama&show_icons=true&theme=transparent)](https://github.com/Jireh-sama/github-readme-stats)
+
 <!--
 **Jireh-sama/Jireh-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <h1 align="center">My Tech Stack</h1>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,css,html,react,tailwindcss" />
+  </a>
+</p>
