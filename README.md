@@ -1,25 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Jireh  
 
-[![Jireh-sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jireh-sama&show_icons=true&theme=transparent)](https://github.com/Jireh-sama/github-readme-stats)
+💻 I'm a **Full-Stack Developer** passionate about building modern web apps with **React.js**, **Next.js**, and the **MERN stack**.  
+⚡ I love solving problems, learning new technologies, and rapidly prototyping ideas into real products.  
 
-<!--
-**Jireh-sama/Jireh-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  <h1 align="center">My Tech Stack</h1>
+### 🔧 My Tech Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,css,html,react,tailwindcss" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,express,mongodb,javascript,html,css,tailwind,git" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Jireh-sama/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jireh-sama&show_icons=true&theme=transparent" height="165" />
+  </a>
+  <a href="https://github.com/Jireh-sama/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jireh-sama&layout=compact&theme=transparent" height="165" />
+  </a>
+</p>
+
+---
+
+### 🌱 What I'm Learning
+- Advanced **Next.js** features (SSR, ISR, API routes)  
+- **TypeScript** for better scalability  
+- **Cloud deployment** (Vercel, Netlify, Docker)  
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [Jireh Tumbagahan](www.linkedin.com/in/jireh-tumbagahan)
+- GitHub: [Jireh-sama](https://github.com/Jireh-sama)  
+
+✨ *Always curious, always building.* 🚀  
