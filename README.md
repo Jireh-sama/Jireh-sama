@@ -29,7 +29,7 @@
 ### 🌱 What I'm Learning
 - Advanced **Next.js** features (SSR, ISR, API routes)  
 - **TypeScript** for better scalability  
-- **Cloud deployment** (Vercel, Netlify, Docker)  
+- **Cloud deployment** (Vercel, Docker)  
 
 ---
 
