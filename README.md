@@ -8,7 +8,7 @@
 ### 🔧 My Tech Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,express,mongodb,javascript,html,css,tailwind,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,express,mongodb,javascript,html,css,tailwind,python,django,git" />
   </a>
 </p>
 
@@ -28,8 +28,8 @@
 
 ### 🌱 What I'm Learning
 - Advanced **Next.js** features (SSR, ISR, API routes)  
-- **TypeScript** for better scalability  
-- **Cloud deployment** (Vercel, Docker)  
+- **Clean Architecture** and **System Design** principles
+- **Cloud deployment & Services** (Docker, AWS)  
 
 ---
 
