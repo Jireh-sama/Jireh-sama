@@ -32,19 +32,6 @@ Building scalable web applications, modern platforms, and automated workflows.
 
 ---
 
-## 📈 Activity & Metrics
-
-<p align="center">
-  <a href="https://github.com/Jireh-sama">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jireh-sama&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Jireh-sama">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jireh-sama&layout=compact&theme=dark" height="150" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
